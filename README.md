@@ -1,4 +1,4 @@
-👋 Hi, I’m @DeepaliSukhdeve
+👋 Hi, I’m Deepali Sukhdeve
 - 👀 I’m interested in data analysis,Database Administration, Programming, and technology.
 - 🌱 I’m currently learning and improving my skills in MYSQL,SQL SERVER,data analysis,Data visualization and SSRS.
 - 💞️ I’m looking to collaborate on data-driven projects and open-source initiatives.
