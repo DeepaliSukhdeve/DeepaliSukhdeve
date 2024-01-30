@@ -1,6 +1,6 @@
 👋 Hi, I’m Deepali Sukhdeve, 
 Passionate Data Analyst with a flair for transforming data into actionable insights. 📊
-🚀 Expertise in front-end technologies like SQL Server Reporting Services (SSRS) and Visual Studio. 💻
+🚀 Expertise in front-end technologies like Tableau, Power BI, SQL Server Reporting Services (SSRS) and Visual Studio. 💻
 🛢️ Proficient in managing MySQL and SQL Server databases, with a knack for SSMS (SQL Server Management Studio). 📈
 🌟 Always ready to explore new technologies and embrace fresh challenges. 🌐
 
